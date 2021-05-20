@@ -1,0 +1,28 @@
+.realty_list {
+  width: 100%;
+  flex-basis: 100%;
+
+  .realty_list_item_actions_stats {
+    position: relative;
+    padding: 0;
+
+    ul {
+      display: block;
+      width: 100%;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: rgba(0,0,0,0.5);
+      color: #fff;
+      font-size: 0.875em;
+      margin: 0;
+      padding: 0;
+
+      li {
+        padding: 10px;
+        list-style: none;
+      }
+    }
+  }
+}

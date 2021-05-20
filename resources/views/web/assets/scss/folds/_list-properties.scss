@@ -1,0 +1,40 @@
+.main_properties {
+  .main_properties_item {
+
+    h2 {
+      font-size: 1.4em;
+      margin-top: 10px;
+
+      a:hover {
+        text-decoration: none;
+      }
+    }
+
+    .main_properties_item_category {
+      margin-bottom: 0px;
+    }
+
+    .main_properties_item_type {
+      font-size: 0.875em;
+      color: #666;
+    }
+
+    .main_properties_price {
+      font-size: 1.6em;
+      font-weight: bold;
+    }
+
+    .main_properties_features {
+
+      img {
+        max-width: 40px;
+      }
+
+      p {
+        margin-top: 6px;
+        font-size: 0.875em;
+        margin-bottom: 0px;
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+.main_property {
+
+  h2 {
+    margin: 40px 0 20px 0;
+  }
+
+  .main_property_price {
+
+    .main_property_price_small {
+      margin-bottom: 0px;
+      font-size: 0.8em;
+    }
+
+    .main_property_price_big {
+      margin-bottom: 0px;
+      font-size: 1.4em;
+    }
+  }
+
+  .main_property_content_description {
+
+    p {
+      margin-bottom: 20px;
+    }
+  }
+
+  .main_property_structure {
+    .main_property_structure_item {
+      padding: 6px 12px;
+      margin-left: 10px;
+      margin-bottom: 10px;
+      background-color: #36BA9B;
+      -webkit-border-radius: 4px;
+      -moz-border-radius: 4px;
+      border-radius: 4px;
+      border: 1px solid #2d9a81;
+      color: #fff;
+    }
+  }
+
+  .main_property_contact {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    overflow: hidden;
+
+    h2 {
+      font-size: 1.2em;
+      margin: 0px;
+      padding: 20px;
+    }
+
+    form {
+      padding: 20px;
+      background-color: #F9F9F9;
+      border: 1px solid #ccc;
+    }
+  }
+}

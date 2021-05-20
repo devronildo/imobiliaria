@@ -1,0 +1,72 @@
+.custom-select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+button.ms-choice {
+  outline: none;
+}
+
+.ms-choice {
+  border: none;
+}
+
+.ms-choice > div {
+  height: 100%;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: none;
+}
+
+.ms-choice > div.open {
+  background: none;
+}
+
+.form-control-sm .ms-choice > span, .custom-select-sm .ms-choice > span {
+  height: calc(1.8125rem + 2px);
+  padding: .25rem .5rem;
+}
+
+.form-control .ms-choice > span, .custom-select .ms-choice > span {
+  height: calc(2.25rem + 2px);
+  padding: .375rem .75rem;
+}
+
+.form-control-md .ms-choice > span {
+  height: calc(2.25rem + 2px);
+  padding: .375rem .75rem;
+}
+
+.form-control-lg .ms-choice > span, .custom-select-lg .ms-choice > span {
+  height: calc(2.875rem + 2px);
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: .3rem;
+}
+
+.ms-drop {
+  left: 0;
+  border: 1px solid #ced4da;
+}
+
+.ms-drop.bottom {
+  top: calc(100% + 10px);
+  box-shadow: none;
+}
+
+.ms-drop ul > li label {
+  font-size: 0.95em;
+  color: #495057;
+  margin: 6px 0;
+}
+
+.ms-drop ul > li label span {
+  margin-left: 8px;
+}
+
+.ms-choice > span.placeholder {
+  color: #495057;
+}
