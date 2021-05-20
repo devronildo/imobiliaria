@@ -5,9 +5,8 @@
 
 Tecnologias utilizadas neste projeto:
 
-.
 
-🚀 Tecnologias. Este projeto foi desenvolvido com as seguintes tecnologias:
+🚀 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 . PHP
 . FRAMEWORK LARAVEL
@@ -17,7 +16,7 @@ Tecnologias utilizadas neste projeto:
 . JQUERY
 . PADRÃO MVC
 
-. Ao clonar este projeto de estes seguintes comandas
+🚀 Ao clonar este projeto de estes seguintes comandas
 
 COMPOSER INSTALL | YARN INSTALL OR NPM INSTALL
 
