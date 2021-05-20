@@ -1,0 +1,24 @@
+.main_footer {
+  h1 {
+    font-size: 1.4em;
+    border-bottom: 1px solid #CCC;
+  }
+
+  ul {
+    padding-left: 0px;
+
+    li {
+      list-style: none;
+      margin-bottom: 4px;
+
+      a {
+        color: #666;
+      }
+    }
+  }
+}
+
+.main_copyright {
+  //background: #BC4B4B;
+  font-size: 0.8em;
+}

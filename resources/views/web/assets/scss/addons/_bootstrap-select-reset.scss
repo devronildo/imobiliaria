@@ -1,0 +1,19 @@
+.bootstrap-select .dropdown-toggle:focus, .bootstrap-select>select.mobile-device:focus+.dropdown-toggle {
+  outline: none !important;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  background-color: $color-front-default;
+}
+
+.bootstrap-select .dropdown-menu li a {
+  outline: none;
+}
+
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn){
+  width:100%;
+}
+
+.bootstrap-select.show-tick .dropdown-menu .selected span.check-mark {
+  color: $color-front-default;
+}
