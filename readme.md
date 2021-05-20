@@ -19,7 +19,7 @@ Tecnologias utilizadas neste projeto:
 
 . Ao clonar este projeto de estes seguintes comandas
 
-COMPOSER INSTALL
+COMPOSER INSTALL |
 YARN INSTALL OR NPM INSTALL
 
 Obs: Projeto desenvolvido para fins didático, projeto não comercializado.
