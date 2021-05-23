@@ -16,7 +16,7 @@ Tecnologias utilizadas neste projeto:
 . JQUERY
 . PADRÃO MVC
 
-🚀 Ao clonar este projeto de estes seguintes comandas
+🚀 Ao clonar este projeto digite os seguintes comandos
 
 COMPOSER INSTALL | YARN INSTALL OR NPM INSTALL
 
